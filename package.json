@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@stytch/stytch-react": "^3.0.7",
+    "@stytch/stytch-react": "^4.1.1",
     "@supabase/supabase-js": "^1.31.1",
     "cookies-next": "^2.0.4",
     "jsonwebtoken": "^9.0.0",
